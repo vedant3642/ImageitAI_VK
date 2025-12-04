@@ -1,0 +1,66 @@
+# ------------------------
+# Python Cache
+# ------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ------------------------
+# Virtual Environments
+# ------------------------
+venv/
+.venv/
+env/
+ENV/
+
+# ------------------------
+# OS / Editor / IDE Files
+# ------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# ------------------------
+# Project Generated Folders
+# ------------------------
+outputs/
+t2i/
+models/                 
+
+# If that folder contains configuration files instead of weights, remove this line.
+
+# ------------------------
+# Model / ML Files (Large)
+# ------------------------
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.h5
+*.onnx
+
+# ------------------------
+# HuggingFace / Diffusers Cache
+# ------------------------
+huggingface/
+hf_cache/
+cache/
+transformers_cache/
+diffusers_cache/
+
+# ------------------------
+# Log files & misc
+# ------------------------
+*.log
+*.tmp
+*.bak
+
+# ------------------------
+# Streamlit cache/config
+# ------------------------
+.streamlit/
+.cache/
