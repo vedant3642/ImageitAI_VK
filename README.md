@@ -1,4 +1,4 @@
-# 🎨 **🤖 ImageitAI : AI-Powered Text-to-Image Generator**
+#  **🤖 ImageitAI : AI-Powered Text-to-Image Generator**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python">
@@ -711,7 +711,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![GitHub stars](https://img.shields.io/github/stars/yourusername/text-to-image-generator)
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/text-to-image-generator)
 ![GitHub issues](https://img.shields.io/github/issues/yourusername/text-to-image-generator)
-![GitHub license](https://img.shields.io/github/license/yourusername/text-to-image-generator)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square&logo=github&labelColor=blue&color=lightgrey&logoWidth=20)](LICENSE)
 
 ---
 
