@@ -531,7 +531,7 @@ OUTPUT_DIR = "./outputs"
 | "a futuristic city at sunset" | Photorealistic | ![Sample 1](assets/sample_1.png) |
 | "portrait of a robot" | Cyberpunk | ![Sample 2](assets/sample_2.png) |
 | "mystical forest" | Fantasy | ![Sample 3](assets/sample_3.png) |
-| "a cozy coffee shop in Tokyo, anime style, warm lighting" | Cyberpunk | ![Sample 4](assets/Sample_4.png) |
+| "a cozy coffee shop in Tokyo, anime style, warm lighting" | Cyberpunk | ![Sample 4](assets/sample_4.png) |
 
 
 ### **Metadata Example**
